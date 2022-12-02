@@ -1,6 +1,0 @@
-#!/usr/bin/env sh
-
-set -e
-
-cd /usr/share/responder/tools/
-exec ./DHCP_Auto.sh "$@"
